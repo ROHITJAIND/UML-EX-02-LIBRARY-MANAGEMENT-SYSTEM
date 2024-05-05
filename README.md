@@ -2,7 +2,7 @@
 ### AIM:
 <table>
 <tr>
-<td width=80%>
+<td width=90%>
 To study the problem statement,SRS document and draw all the UML diagrams of aLibrary Management System.
 </td> 
 <td>
@@ -39,4 +39,4 @@ To create Library Management System software that will meet the needs of the app
 <img height=50% src="https://github.com/ROHITJAIND/UML-EX-02-LIBRARY-MANAGEMENT-SYSTEM/assets/118707073/86bdc2db-f81f-4ee5-9bca-f254621d8349">
 
 ### RESULT:
-Thus the ATM and banking System project was executed and the output was verified.
+ Thus, the Library management system project was executed and the output was verified.
